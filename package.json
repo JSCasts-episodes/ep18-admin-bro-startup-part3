@@ -22,7 +22,7 @@
     "admin-bro-mongoose": "^0.5.0",
     "argon2": "^0.26.2",
     "connect-mongo": "^3.2.0",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "express-formidable": "^1.2.0",
     "express-session": "^1.17.0",
     "mongoose": "^5.9.7"
